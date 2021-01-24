@@ -16,7 +16,7 @@ TeacherAPI main
 
 TeacherAPI controller
 =====================
-.. automodule:: teacherAPI.controller
+.. automodule:: code.chemplot
    :members:
 
 TeacherAPI models

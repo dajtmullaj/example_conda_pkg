@@ -18,5 +18,6 @@ The ChemPlot package is made up of the following modules:
 
 .. automodule:: code.chemplot
 .. autoclass:: code.chemplot.Plotter()
+   :special-members: __call__
    :members:
-.. autofunction:: code.chemplot.Plotter.from_smiles
+.. autofunction:: code.chemplot.Plotter.from_smiles()

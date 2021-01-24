@@ -25,6 +25,8 @@ A step-by-step user manual to getting started with ChemPlot.
 .. toctree::
    :maxdepth: 1
 
+   user_manual/installation
+   
 API documentation
 -----------------
 

@@ -16,4 +16,10 @@ The ChemPlot package is made up of the following modules:
    :local:
    :depth: 1
 
-.. automodule:: example_conda_pkg.example_project
+.. automodule:: example_conda_pkg.chemplot
+.. autoclass:: example_conda_pkg.chemplot.Plotter()
+   :members:
+.. autofunction:: example_conda_pkg.chemplot.Plotter.from_smiles
+.. autofunction:: example_conda_pkg.chemplot.Plotter.pca
+.. autofunction:: example_conda_pkg.chemplot.Plotter.tsne
+.. autofunction:: example_conda_pkg.chemplot.Plotter.umap

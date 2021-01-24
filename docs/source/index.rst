@@ -25,16 +25,7 @@ A step-by-step user manual to getting started with ChemPlot.
 .. toctree::
    :maxdepth: 1
 
-   user_manual/intro
-   user_manual/install
-   user_manual/gettingstarted
-   user_manual/validate
-   user_manual/standardize
-   user_manual/tautomer
-   user_manual/fragment
-   user_manual/charge
-   user_manual/cli
-   user_manual/contributing
+
 
 API documentation
 -----------------

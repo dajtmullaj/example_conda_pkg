@@ -5,27 +5,30 @@
    
 
 ChemPlot: A python library for chemical space visualization
-==============================================
+===========================================================
 
 .. sectionauthor:: Dajt Mullaj <d.mullaj@differ.nl>
 .. sectionauthor:: Murat Cihan Sorkun <m.c.Sorkun@differ.nl>
 
 Write an Introduction.
 
-Features (Optional section_)
---------
+Features (Optional)
+-------------------
 
 - add some_features 
 
 User Manual
-----------
+-----------
 
 A step-by-step user manual to getting started with ChemPlot.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
+   :caption: User Manual:
 
    user_manual/installation
+   user_manual/usage
+   user_manual/similarity
    
 API documentation
 -----------------
@@ -33,10 +36,10 @@ API documentation
 Authomatic doc from code
 
 .. toctree::
-   :maxdepth: 2
+   :caption: API Reference:
 
    api
 
 
-Useful links (Optional section_)
-------------
+Useful links (Optional)
+-----------------------
